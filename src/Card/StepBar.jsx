@@ -61,7 +61,7 @@ const CardItems = [
   {
     img: "/Frame (5).png",
     h1: "Tell us about the incident?",
-    p: "Let’s connect the dots and see where to start.",
+    p: "Lets connect the dots and see where to start.",
   },
   {
     img: "/Frame (4).png",
