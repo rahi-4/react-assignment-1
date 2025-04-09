@@ -3,7 +3,7 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import './App.css'
 import Navbar from './Components/Navbar'
 import Incidents from './Card/IncidentPage'
-import Dashboard from './Card/DashBoard'
+import Dashboard from './Card/Dashboard'
 import Locations from './Components/Locations'
 import Error from './ErrorPage.jsx/Error'
 function App() {
